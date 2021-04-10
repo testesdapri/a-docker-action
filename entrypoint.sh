@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-echo "Hello $USER! The time now is $(date)"
+echo "Hello $GITHUB_ACTOR! The time now is $(date)"
