@@ -5,3 +5,7 @@ description: 'Simply running a bash command and showing the time it executed'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+
+branding:
+  icon: 'book'  
+  color: 'purple'
