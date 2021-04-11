@@ -1,3 +1,5 @@
+name: A simple Docker action
+
 on:
   issues:
     types: [opened, edited, labeled]
